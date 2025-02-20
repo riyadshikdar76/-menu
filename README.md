@@ -18,6 +18,5 @@
       <li><a href="">blog</a></li>
    </ul>
 
-    </nav>
-    </body>
+   </body>
  </html>
